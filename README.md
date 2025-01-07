@@ -2,7 +2,7 @@
 
  **Google Chrome,s Find Bar** built with React and Vite. 
 
-![Screenshot (6)](https://github.com/user-attachments/assets/f9de71c0-ccbe-4dbc-b724-69e37e3100cf) 
+![Screenshot (6)](https://github.com/user-attachments/assets/e13cd443-13ec-44a8-94d7-a45ab0ac984a)
 
 ---
 
