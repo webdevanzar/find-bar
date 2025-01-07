@@ -1,0 +1,17 @@
+.paragraph {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 56px;
+  padding: 10px;
+}
+
+p {
+  font-size: 30px;
+  line-height: normal;
+}
+
+
